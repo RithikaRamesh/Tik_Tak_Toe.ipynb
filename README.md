@@ -1,4 +1,4 @@
-# Tik_Tak_Toe.ipynb
+# Tik_Tak_Toe problem
 Tic Tak Toe python code
 
 A completed game of tic-tac-toe
